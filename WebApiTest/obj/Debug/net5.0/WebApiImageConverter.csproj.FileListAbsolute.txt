@@ -1,0 +1,134 @@
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\obj\Debug\net5.0\WebApiImageConverter.csproj.AssemblyReference.cache
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\obj\Debug\net5.0\WebApiImageConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\obj\Debug\net5.0\WebApiImageConverter.AssemblyInfoInputs.cache
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\obj\Debug\net5.0\WebApiImageConverter.AssemblyInfo.cs
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\obj\Debug\net5.0\WebApiImageConverter.csproj.CoreCompileInputs.cache
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\obj\Debug\net5.0\WebApiImageConverter.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\obj\Debug\net5.0\WebApiImageConverter.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\bin\Debug\net5.0\appsettings.json
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\bin\Debug\net5.0\WebApiImageConverter.StaticWebAssets.xml
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\bin\Debug\net5.0\WebApiImageConverter.exe
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\bin\Debug\net5.0\WebApiImageConverter.deps.json
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\bin\Debug\net5.0\WebApiImageConverter.runtimeconfig.json
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\bin\Debug\net5.0\WebApiImageConverter.runtimeconfig.dev.json
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\bin\Debug\net5.0\WebApiImageConverter.dll
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\bin\Debug\net5.0\ref\WebApiImageConverter.dll
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\bin\Debug\net5.0\WebApiImageConverter.pdb
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\bin\Debug\net5.0\Humanizer.dll
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\bin\Debug\net5.0\Infraestructure.Data.dll
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\bin\Debug\net5.0\Services.dll
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\bin\Debug\net5.0\Infraestructure.Data.pdb
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\bin\Debug\net5.0\Services.pdb
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\obj\Debug\net5.0\staticwebassets\WebApiImageConverter.StaticWebAssets.Manifest.cache
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\obj\Debug\net5.0\staticwebassets\WebApiImageConverter.StaticWebAssets.xml
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\obj\Debug\net5.0\scopedcss\bundle\WebApiImageConverter.styles.css
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\obj\Debug\net5.0\WebApiImageConverter.RazorTargetAssemblyInfo.cache
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\obj\Debug\net5.0\WebApiImageConverter.csproj.CopyComplete
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\obj\Debug\net5.0\WebApiImageConverter.dll
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\obj\Debug\net5.0\ref\WebApiImageConverter.dll
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\obj\Debug\net5.0\WebApiImageConverter.pdb
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\WebApiTest\obj\Debug\net5.0\WebApiImageConverter.genruntimeconfig.cache
+C:\Desarrollos TP\images converter\WebApiTest\bin\Debug\net5.0\appsettings.Development.json
+C:\Desarrollos TP\images converter\WebApiTest\bin\Debug\net5.0\appsettings.json
+C:\Desarrollos TP\images converter\WebApiTest\bin\Debug\net5.0\WebApiImageConverter.StaticWebAssets.xml
+C:\Desarrollos TP\images converter\WebApiTest\bin\Debug\net5.0\WebApiImageConverter.exe
+C:\Desarrollos TP\images converter\WebApiTest\bin\Debug\net5.0\WebApiImageConverter.deps.json
+C:\Desarrollos TP\images converter\WebApiTest\bin\Debug\net5.0\WebApiImageConverter.runtimeconfig.json
+C:\Desarrollos TP\images converter\WebApiTest\bin\Debug\net5.0\WebApiImageConverter.runtimeconfig.dev.json
+C:\Desarrollos TP\images converter\WebApiTest\bin\Debug\net5.0\WebApiImageConverter.dll
+C:\Desarrollos TP\images converter\WebApiTest\bin\Debug\net5.0\WebApiImageConverter.pdb
+C:\Desarrollos TP\images converter\WebApiTest\bin\Debug\net5.0\Humanizer.dll
+C:\Desarrollos TP\images converter\WebApiTest\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Desarrollos TP\images converter\WebApiTest\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Desarrollos TP\images converter\WebApiTest\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Desarrollos TP\images converter\WebApiTest\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Desarrollos TP\images converter\WebApiTest\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Desarrollos TP\images converter\WebApiTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Desarrollos TP\images converter\WebApiTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Desarrollos TP\images converter\WebApiTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Desarrollos TP\images converter\WebApiTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Desarrollos TP\images converter\WebApiTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Desarrollos TP\images converter\WebApiTest\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Desarrollos TP\images converter\WebApiTest\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Desarrollos TP\images converter\WebApiTest\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Desarrollos TP\images converter\WebApiTest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Desarrollos TP\images converter\WebApiTest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Desarrollos TP\images converter\WebApiTest\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Desarrollos TP\images converter\WebApiTest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Desarrollos TP\images converter\WebApiTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Desarrollos TP\images converter\WebApiTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Desarrollos TP\images converter\WebApiTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Desarrollos TP\images converter\WebApiTest\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Desarrollos TP\images converter\WebApiTest\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Desarrollos TP\images converter\WebApiTest\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Desarrollos TP\images converter\WebApiTest\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Desarrollos TP\images converter\WebApiTest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Desarrollos TP\images converter\WebApiTest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Desarrollos TP\images converter\WebApiTest\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Desarrollos TP\images converter\WebApiTest\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Desarrollos TP\images converter\WebApiTest\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Desarrollos TP\images converter\WebApiTest\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Desarrollos TP\images converter\WebApiTest\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Desarrollos TP\images converter\WebApiTest\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Desarrollos TP\images converter\WebApiTest\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Desarrollos TP\images converter\WebApiTest\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Desarrollos TP\images converter\WebApiTest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Desarrollos TP\images converter\WebApiTest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Desarrollos TP\images converter\WebApiTest\bin\Debug\net5.0\Infraestructure.Data.dll
+C:\Desarrollos TP\images converter\WebApiTest\bin\Debug\net5.0\Services.dll
+C:\Desarrollos TP\images converter\WebApiTest\bin\Debug\net5.0\Infraestructure.Data.pdb
+C:\Desarrollos TP\images converter\WebApiTest\bin\Debug\net5.0\Services.pdb
+C:\Desarrollos TP\images converter\WebApiTest\obj\Debug\net5.0\WebApiImageConverter.csproj.AssemblyReference.cache
+C:\Desarrollos TP\images converter\WebApiTest\obj\Debug\net5.0\WebApiImageConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollos TP\images converter\WebApiTest\obj\Debug\net5.0\WebApiImageConverter.AssemblyInfoInputs.cache
+C:\Desarrollos TP\images converter\WebApiTest\obj\Debug\net5.0\WebApiImageConverter.AssemblyInfo.cs
+C:\Desarrollos TP\images converter\WebApiTest\obj\Debug\net5.0\WebApiImageConverter.csproj.CoreCompileInputs.cache
+C:\Desarrollos TP\images converter\WebApiTest\obj\Debug\net5.0\WebApiImageConverter.MvcApplicationPartsAssemblyInfo.cs
+C:\Desarrollos TP\images converter\WebApiTest\obj\Debug\net5.0\WebApiImageConverter.MvcApplicationPartsAssemblyInfo.cache
+C:\Desarrollos TP\images converter\WebApiTest\obj\Debug\net5.0\scopedcss\bundle\WebApiImageConverter.styles.css
+C:\Desarrollos TP\images converter\WebApiTest\obj\Debug\net5.0\staticwebassets\WebApiImageConverter.StaticWebAssets.Manifest.cache
+C:\Desarrollos TP\images converter\WebApiTest\obj\Debug\net5.0\staticwebassets\WebApiImageConverter.StaticWebAssets.xml
+C:\Desarrollos TP\images converter\WebApiTest\obj\Debug\net5.0\WebApiImageConverter.RazorTargetAssemblyInfo.cache
+C:\Desarrollos TP\images converter\WebApiTest\obj\Debug\net5.0\WebApiImageConverter.csproj.CopyComplete
+C:\Desarrollos TP\images converter\WebApiTest\obj\Debug\net5.0\WebApiImageConverter.dll
+C:\Desarrollos TP\images converter\WebApiTest\obj\Debug\net5.0\refint\WebApiImageConverter.dll
+C:\Desarrollos TP\images converter\WebApiTest\obj\Debug\net5.0\WebApiImageConverter.pdb
+C:\Desarrollos TP\images converter\WebApiTest\obj\Debug\net5.0\WebApiImageConverter.genruntimeconfig.cache
+C:\Desarrollos TP\images converter\WebApiTest\obj\Debug\net5.0\ref\WebApiImageConverter.dll

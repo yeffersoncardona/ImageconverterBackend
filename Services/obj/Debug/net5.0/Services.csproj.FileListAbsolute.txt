@@ -1,0 +1,30 @@
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\Services\bin\Debug\net5.0\Services.deps.json
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\Services\bin\Debug\net5.0\Services.dll
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\Services\bin\Debug\net5.0\ref\Services.dll
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\Services\bin\Debug\net5.0\Services.pdb
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\Services\bin\Debug\net5.0\Infraestructure.Data.dll
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\Services\bin\Debug\net5.0\Infraestructure.Data.pdb
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\Services\obj\Debug\net5.0\Services.csproj.AssemblyReference.cache
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\Services\obj\Debug\net5.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\Services\obj\Debug\net5.0\Services.AssemblyInfoInputs.cache
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\Services\obj\Debug\net5.0\Services.AssemblyInfo.cs
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\Services\obj\Debug\net5.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\Services\obj\Debug\net5.0\Services.csproj.CopyComplete
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\Services\obj\Debug\net5.0\Services.dll
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\Services\obj\Debug\net5.0\ref\Services.dll
+C:\Users\yacardona\Downloads\ImageConverterUber\WebApiTest-master\Services\obj\Debug\net5.0\Services.pdb
+C:\Desarrollos TP\images converter\Services\bin\Debug\net5.0\Services.deps.json
+C:\Desarrollos TP\images converter\Services\bin\Debug\net5.0\Services.dll
+C:\Desarrollos TP\images converter\Services\bin\Debug\net5.0\Services.pdb
+C:\Desarrollos TP\images converter\Services\bin\Debug\net5.0\Infraestructure.Data.dll
+C:\Desarrollos TP\images converter\Services\bin\Debug\net5.0\Infraestructure.Data.pdb
+C:\Desarrollos TP\images converter\Services\obj\Debug\net5.0\Services.csproj.AssemblyReference.cache
+C:\Desarrollos TP\images converter\Services\obj\Debug\net5.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollos TP\images converter\Services\obj\Debug\net5.0\Services.AssemblyInfoInputs.cache
+C:\Desarrollos TP\images converter\Services\obj\Debug\net5.0\Services.AssemblyInfo.cs
+C:\Desarrollos TP\images converter\Services\obj\Debug\net5.0\Services.csproj.CoreCompileInputs.cache
+C:\Desarrollos TP\images converter\Services\obj\Debug\net5.0\Services.csproj.CopyComplete
+C:\Desarrollos TP\images converter\Services\obj\Debug\net5.0\Services.dll
+C:\Desarrollos TP\images converter\Services\obj\Debug\net5.0\refint\Services.dll
+C:\Desarrollos TP\images converter\Services\obj\Debug\net5.0\Services.pdb
+C:\Desarrollos TP\images converter\Services\obj\Debug\net5.0\ref\Services.dll
